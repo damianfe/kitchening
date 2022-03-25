@@ -1,0 +1,16 @@
+* {
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(245, 238, 238);
+}
+li{
+    list-style: none;
+}
