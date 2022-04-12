@@ -1,16 +1,21 @@
 * {
-    box-sizing: content-box;
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-}
-body{
+  }
+  
+  body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-a{
+    max-width: 1180px;
+    margin: 0 auto;
+  }
+  
+  a {
     text-decoration: none;
-    color:rgb(245, 238, 238);
-}
-li{
-    list-style: none;
-}
+    color: white;
+  }
+  
+  li {
+      list-style: none;
+  }
+  
